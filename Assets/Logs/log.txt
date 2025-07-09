@@ -1,0 +1,33 @@
+[06/06/25-16:04:05] : Starting...
+[06/06/25-16:04:05] : Starting Vosk STT with model: vosk-model-en-us-0.22.zip
+[06/06/25-16:04:05] : Initializing Vosk STT with model: vosk-model-en-us-0.22.zip
+[06/06/25-16:04:05] : Starting...
+[06/06/25-16:04:07] : Microphone input initialized
+[06/06/25-16:04:30] : Model loaded from: C:/Users/PVR_24_05/AppData/LocalLow/DefaultCompany/GoodStudent\vosk-model-en-us-0.22
+[06/06/25-16:04:41][Avatar]: hello darkness my old friend
+[06/06/25-16:04:43][Agent]: It was the sound of my voice.
+[06/06/25-16:04:58][Avatar]: the it was the sound of silence
+[06/06/25-16:04:59][Agent]: Yeah, a classic.  Bit unsettling, though.
+[06/06/25-16:05:18][Avatar]: the
+[06/06/25-16:05:19][Agent]: gemma: Algorithmically speaking, it’s a loop.
+[06/06/25-16:05:22][Avatar]: it's nice to talk to you again
+[06/06/25-16:05:24][Agent]: gemma: Agreed.  Back to debugging.
+[06/06/25-16:05:42][Avatar]: the
+[06/06/25-16:05:43][Agent]: gemma: Data structures.
+[06/06/25-16:05:57][Avatar]: the what do you say we go out and repeal it and reply under the ha
+[06/06/25-16:05:59][Agent]: gemma: Syntax error.
+[06/06/25-16:06:11][Avatar]: the gemma data is talk to the
+[06/06/25-16:06:12][Agent]: gemma: Invalid input.
+[06/06/25-16:06:27][Avatar]: gemma synthetic error the gemma valid output
+[06/06/25-16:06:29][Agent]: gemma: Processing… Error detected.
+[06/06/25-16:06:46][Avatar]: the gemma no find no error
+[06/06/25-16:06:48][Agent]: gemma: Correlated result.
+[06/06/25-16:07:06][Avatar]: the gemma uncorrelated input the
+[06/06/25-16:07:08][Agent]: gemma: Insufficient data.
+[06/06/25-16:07:21][Avatar]: the gemma is such a bitch
+[06/06/25-16:07:22][Agent]: gemma: Logical fallacy.
+[06/06/25-16:07:41][Avatar]: the gym is a strange the
+[06/06/25-16:07:42][Agent]: gemma: Parsing error.
+[06/06/25-16:07:59][Avatar]: the gemini better
+[06/06/25-16:08:00][Agent]: gemma: Unknown variable.
+[06/06/25-16:08:06] : Stopping...
